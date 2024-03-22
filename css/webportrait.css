@@ -273,7 +273,7 @@ button.projets-btn {
     cursor: pointer;
 }
 
-button#donate {
+#donate {
     background-color: red;
     border: none;
     color: white;
@@ -289,23 +289,23 @@ button#donate {
 
 
 
-button.projets-btn:hover {
+.projets-btn:hover {
     background-color: black;
 }
 
-button#donate:hover {
+#donate:hover {
     background-color: black;
 }
 
 
 
-img#igraal-logo {
+#igraal-logo {
     float: left;
     width: 50px;
     height: 50px;
 }
 
-span#span-igraal {
+#span-igraal {
     float: left;
     margin-left: 10px;
     margin-top: 10px;
@@ -313,7 +313,7 @@ span#span-igraal {
     color: white;
 }
 
-div#follow-me {
+#follow-me {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -321,13 +321,13 @@ div#follow-me {
     margin-top: 10%;
 }
 
-div#follow-me p {
+#follow-me p {
     color: black;
     font-size: 20px;
     margin-right: 10px;
 }
 
-div#follow-me img {
+#follow-me img {
     width: 10%;
     height: 10%;
 
